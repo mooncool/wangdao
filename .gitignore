@@ -5,3 +5,4 @@
 */cache/!index.html
 .project
 .DS_Store
+*.bak

@@ -36,6 +36,11 @@ define('FOPEN_READ_WRITE_CREATE',				'a+b');
 define('FOPEN_WRITE_CREATE_STRICT',				'xb');
 define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
+define('STATUS_SUCCESS', 0);
+define('STATUS_ERROR', -1);
+
+define('KEY_AUTO_LOGIN', 'wangdao_auto_login');
+define('KEY_USER_ID', 'wangdao_uid');
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
