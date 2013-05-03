@@ -41,6 +41,7 @@ define('STATUS_ERROR', -1);
 
 define('KEY_AUTO_LOGIN', 'wangdao_auto_login');
 define('KEY_USER_ID', 'wangdao_uid');
+define('KEY_USER_NAME', 'wangdao_uname');
 
 /* End of file constants.php */
 /* Location: ./application/config/constants.php */
